@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     siteUrl: "https://www.yourdomain.tld",
-    title: "ariel",
+    title: "Ariel Zilist",
   },
   plugins: [
     "gatsby-plugin-netlify-cms",
@@ -35,4 +35,4 @@ module.exports = {
       __key: "pages",
     },
   ],
-};
+}
